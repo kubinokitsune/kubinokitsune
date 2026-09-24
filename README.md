@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kubinokitsune
 - 👀 I’m interested in coding and video games
-- 🌱 I’m currently learning pithon
+- 🌱 I’m currently learning python
 - 📫 How to reach me: Discord kitsune_pipe.
 
 <!---
