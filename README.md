@@ -5,6 +5,9 @@ student-athlete. I like building real things across the whole stack: from a
 self-hosted fleet of AI agents, to web apps, to firmware for a physical
 calculator. Most of what I build starts as *"could I run this myself?"*
 
+I like owning the whole stack — from the kernel scheduler up to the UI — and
+actually understanding every layer I depend on, not just the one I'm working in.
+
 ---
 
 ## 🔧 What I build
@@ -48,4 +51,10 @@ making the right calls, and I use good tools to build faster than I could alone.
 
 Discord **kitsune_pipe** · or open an issue on any repo.
 
-<sub>Currently: finishing IB, expanding the homelab, and getting the chemistry calculator onto real hardware.</sub>
+### 🚧 What's next
+
+- A **custom PCB** for the handheld calculator, once the firmware and key layout have earned it
+- A **server upgrade** (i7 / more threads) so the homelab can run larger local models
+- Finishing IB — then studying engineering
+
+<sub>Built by Felipe "Pipe" Fonseca · Costa Rica</sub>
