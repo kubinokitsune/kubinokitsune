@@ -49,7 +49,7 @@ making the right calls, and I use good tools to build faster than I could alone.
 
 ## 📫 Reach me
 
-Discord **kitsune_pipe** · or open an issue on any repo.
+📧 **pipefonseca08@gmail.com** · 💬 Discord **kitsune_pipe** · or open an issue on any repo.
 
 ### 🚧 What's next
 
